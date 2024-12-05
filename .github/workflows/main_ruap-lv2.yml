@@ -63,4 +63,4 @@ jobs:
           app-name: 'RUAP-lv2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89BC637D96C24BB7A25751EB984C5FF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDC783D7FD834769A4B94087FE542478 }}
